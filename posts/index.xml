@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Laboratorinis darbas 4</title>
+    <link>https://mkvtech.github.io/posts/</link>
+    <description>Recent content in Posts on Laboratorinis darbas 4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 16:58:48 +0200</lastBuildDate><atom:link href="https://mkvtech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas puslapis</title>
+      <link>https://mkvtech.github.io/posts/hello/</link>
+      <pubDate>Sun, 18 Dec 2022 16:58:48 +0200</pubDate>
+      
+      <guid>https://mkvtech.github.io/posts/hello/</guid>
+      <description>Tai yra pirmas Hugo puslapis.
+Nuoroda į Hugo: https://gohugo.io/</description>
+    </item>
+    
+  </channel>
+</rss>
