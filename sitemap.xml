@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mkvtech.github.io/</loc>
-    <lastmod>2022-12-18T16:58:48+02:00</lastmod>
+    <loc>https://mkvtech.github.io/posts/code/</loc>
+    <lastmod>2022-12-19T12:40:22+02:00</lastmod>
   </url><url>
-    <loc>https://mkvtech.github.io/posts/hello/</loc>
-    <lastmod>2022-12-18T16:58:48+02:00</lastmod>
+    <loc>https://mkvtech.github.io/</loc>
+    <lastmod>2022-12-19T12:40:22+02:00</lastmod>
   </url><url>
     <loc>https://mkvtech.github.io/posts/</loc>
+    <lastmod>2022-12-19T12:40:22+02:00</lastmod>
+  </url><url>
+    <loc>https://mkvtech.github.io/posts/hello/</loc>
     <lastmod>2022-12-18T16:58:48+02:00</lastmod>
   </url><url>
     <loc>https://mkvtech.github.io/categories/</loc>

@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Laboratorinis darbas 4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2022 16:58:48 +0200</lastBuildDate><atom:link href="https://mkvtech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 12:40:22 +0200</lastBuildDate><atom:link href="https://mkvtech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>https://mkvtech.github.io/posts/code/</link>
+      <pubDate>Mon, 19 Dec 2022 12:40:22 +0200</pubDate>
+      
+      <guid>https://mkvtech.github.io/posts/code/</guid>
+      <description>Puslapis su paveiksliuku ir kodu Paveiksliukas Kodas Šaltinis: https://en.wikipedia.org/wiki/JavaScript#Simple_examples
+const counter = function () { let count = 0; return function () { return ++count; }; }; const x = counter(); x(); // Returns 1 x(); // Returns 2 x(); // Returns 3 </description>
+    </item>
+    
     <item>
       <title>Pirmas puslapis</title>
       <link>https://mkvtech.github.io/posts/hello/</link>
